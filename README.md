@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Shehan2004-SCP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# [Your Name] 👨‍💻
 
-<!---
-Shehan2004-web/Shehan2004-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Developer | Tech Enthusiast | Open Source Contributor**
+
+---
+
+### 👋 About Me
+```javascript
+const [YourName] = {
+  location: "Your Location",
+  expertise: ["Web Development", "Cloud Services", "AI Projects"],
+  interests: ["Open Source", "Creative Tech", "System Design"],
+  motto: "Building something new every day!"
+};
