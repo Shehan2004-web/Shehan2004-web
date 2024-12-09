@@ -1,4 +1,10 @@
-# KD Jayakody
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+<h1 align="center">Hi 👋, I'm Shashindu Madushan</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+System+and+Network+Engineer;Arduino+Project+Developer;%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things;Exploring%20the%20Boundless%20World%20of%20Technology&center=true&width=500&height=50"></a>
+</p>
 
 <div align="center">
   
