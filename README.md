@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 I'm a passionate student with skills in Adobe Photoshop, web development, and the MS Office package. I'm always eager to learn and take on new challenges, combining creativity and technical knowledge to deliver quality results.
 ```typescript
-const KDJayakody = {
+const SCPapp = {
     location: "Sri Lanka 🇱🇰",
     education: "passionate Softweare engener student",
     roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
