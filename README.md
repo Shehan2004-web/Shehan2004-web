@@ -13,7 +13,7 @@
 </div>
 
 ## 👨‍💻 About Me
-
+I'm a passionate student with skills in Adobe Photoshop, web development, and the MS Office package. I'm always eager to learn and take on new challenges, combining creativity and technical knowledge to deliver quality results.
 ```typescript
 const KDJayakody = {
     location: "Sri Lanka 🇱🇰",
