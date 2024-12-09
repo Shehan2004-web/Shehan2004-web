@@ -1,14 +1,15 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<h1 align="center">Hi 👋, I'm Shashindu Madushan</h1>
+<h1 align="center">Hi 👋, I'm Shehan Chamika</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+System+and+Network+Engineer;Arduino+Project+Developer;%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things;Exploring%20the%20Boundless%20World%20of%20Technology&center=true&width=500&height=50"></a>
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
 </p>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+ 
 
   [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/kdjayakody)
   [![Twitter Follow](https://img.shields.io/twitter/follow/kdjayakody?style=social)](https://twitter.com/kdjayakody)
