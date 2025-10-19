@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Digital Workspace 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=G.M%20Shehan%20Chamika&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%20Shehan%20Chamika&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Adobe+Photoshop+Expert+%F0%9F%8E%A8;Web+Development+Enthusiast+%F0%9F%92%BB;MS+Office+Specialist+%F0%9F%93%8A;Always+Ready+for+New+Challenges+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@ const shehan = {
     fullName: "G.M Shehan Chamika Priyadarshana",
     username: "Shehan2004-web",
     location: "Sri Lanka 🇱🇰",
-    company: "SCP_APPS",
+    company: "SoftGen",
     timezone: "UTC+05:30",
     passions: [
         "Adobe Photoshop Design",
