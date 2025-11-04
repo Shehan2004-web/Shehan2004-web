@@ -255,14 +255,16 @@ function setActiveNavLink() {
 window.addEventListener('scroll', setActiveNavLink);
 
 // ===== Parallax Effect for Hero Background =====
-window.addEventListener('scroll', () => {
+const handleParallax = () => {
     const scrolled = window.pageYOffset;
     const heroBackground = document.querySelector('.hero-background');
     
     if (heroBackground) {
         heroBackground.style.transform = `translateY(${scrolled * 0.5}px)`;
     }
-});
+};
+
+window.addEventListener('scroll', debounce(handleParallax, 10));
 
 // ===== Project Cards Hover Effect =====
 const projectCards = document.querySelectorAll('.project-card');
