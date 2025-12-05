@@ -35,7 +35,7 @@ const shehan = {
 
 ## 💼 Professional Info
 
-🏢 **Company:** SCP_APPS  
+🏢 **Company:** SoftGen  
 🌐 **Website:** [softgen.lk](https://softgen.lk)  
 📍 **Location:** Sri Lanka  
 ⏰ **Timezone:** 17:52 (UTC -12:00)  
