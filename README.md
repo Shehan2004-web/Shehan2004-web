@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+## 🌐 [View My Portfolio Website](https://shehan2004-web.github.io/Shehan2004-web/)
+
 </div>
 
 ## 🎯 About Me
@@ -212,3 +214,75 @@ Data Management    ██████████████████░░ 
 ### 🚀 Visit [SCP_APPS](https://softgen.lk) for more amazing projects!
 
 </div>
+
+---
+
+## 📁 Portfolio Website
+
+This repository includes a modern, responsive portfolio website showcasing my skills and projects.
+
+### 🌐 Live Site
+Visit the live portfolio at: [https://shehan2004-web.github.io/Shehan2004-web/](https://shehan2004-web.github.io/Shehan2004-web/)
+
+### ✨ Features
+- 🎨 Modern, clean design with dark theme
+- 📱 Fully responsive (mobile, tablet, desktop)
+- ⚡ Smooth animations and transitions
+- 🚀 Fast loading and optimized performance
+- 💼 Sections: Home, About, Skills, Projects, Contact
+- 📧 Contact form integration
+- 🎯 SEO optimized
+
+### 🛠️ Technologies Used
+- HTML5
+- CSS3 (with CSS Variables & Flexbox/Grid)
+- JavaScript (Vanilla JS)
+- Font Awesome Icons
+- GitHub Pages for hosting
+
+### 🚀 Deployment
+The website is automatically deployed using GitHub Pages. To deploy your own version:
+
+1. Fork this repository
+2. Go to repository Settings → Pages
+3. Select the branch (main) and root folder
+4. Save and wait for deployment
+5. Your site will be live at `https://[your-username].github.io/[repo-name]/`
+
+### 📝 Local Development
+To run the website locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shehan2004-web/Shehan2004-web.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Shehan2004-web
+   ```
+
+3. Open `index.html` in your browser or use a local server:
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using Node.js
+   npx http-server
+   ```
+
+4. Visit `http://localhost:8000` in your browser
+
+### 🎨 Customization
+To customize the website for your own use:
+
+1. Update personal information in `index.html`
+2. Modify colors and styles in `styles.css` (check CSS variables at the top)
+3. Adjust animations and interactions in `script.js`
+4. Replace project information and links
+
+### 📧 Contact
+For any inquiries or collaboration opportunities, feel free to reach out:
+- 📧 Email: chamikascp@gmail.com
+- 🌐 Website: [softgen.lk](https://softgen.lk)
+- 📱 WhatsApp: [+94 70 324 5075](http://wa.me/+94703245075)
