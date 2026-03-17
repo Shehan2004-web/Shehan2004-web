@@ -1,7 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=200&section=header&text=Shehan%20Chamika&fontSize=50&fontColor=58A6FF&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Softgen.lk%20%7C%20AI%20SaaS%20Architect&descSize=16&descAlignY=58&descColor=8B949E&animation=fadeIn" />
+<!-- SVG Header - Direct render, no external dependency -->
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="200" fill="url(#grad)" rx="10"/>
+  <text x="50%" y="80" font-family="monospace" font-size="14" fill="#58A6FF" text-anchor="middle" opacity="0.6">{ Softgen.lk }</text>
+  <text x="50%" y="120" font-family="monospace" font-size="30" fill="#58A6FF" text-anchor="middle" font-weight="bold">Shehan Chamika</text>
+  <text x="50%" y="155" font-family="monospace" font-size="13" fill="#8B949E" text-anchor="middle">Founder &amp; CEO @ Softgen.lk · AI SaaS Architect · Full-Stack Engineer</text>
+  <line x1="20%" y1="175" x2="80%" y2="175" stroke="#21262D" stroke-width="1"/>
+  <text x="50%" y="190" font-family="monospace" font-size="10" fill="#3FB950" text-anchor="middle">softgen.lk</text>
+</svg>
 
 <br/>
 
@@ -12,7 +26,6 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
 [![Email](https://img.shields.io/badge/contact%40softgen.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@softgen.lk)
 [![Website](https://img.shields.io/badge/softgen.lk-000000?style=for-the-badge&logo=About.me&logoColor=58A6FF)](https://softgen.lk)
 [![LinkedIn](https://img.shields.io/badge/Shehan%20Chamika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-chamika/)
@@ -131,6 +144,17 @@
 
 *"Engineering the future, one intelligent system at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=120&section=footer" />
+<!-- SVG Footer -->
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="80" fill="url(#grad2)" rx="10"/>
+  <text x="50%" y="45" font-family="monospace" font-size="11" fill="#3FB950" text-anchor="middle" opacity="0.7">© Shehan Chamika · softgen.lk</text>
+</svg>
 
 </div>
