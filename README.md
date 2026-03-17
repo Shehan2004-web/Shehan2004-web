@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- SVG Header - Direct render, no external dependency -->
 <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -9,25 +8,25 @@
       <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="100%" height="200" fill="url(#grad)" rx="10"/>
-  <text x="50%" y="80" font-family="monospace" font-size="14" fill="#58A6FF" text-anchor="middle" opacity="0.6">{ Softgen.lk }</text>
-  <text x="50%" y="120" font-family="monospace" font-size="30" fill="#58A6FF" text-anchor="middle" font-weight="bold">Shehan Chamika</text>
-  <text x="50%" y="155" font-family="monospace" font-size="13" fill="#8B949E" text-anchor="middle">Founder &amp; CEO @ Softgen.lk · AI SaaS Architect · Full-Stack Engineer</text>
-  <line x1="20%" y1="175" x2="80%" y2="175" stroke="#21262D" stroke-width="1"/>
-  <text x="50%" y="190" font-family="monospace" font-size="10" fill="#3FB950" text-anchor="middle">softgen.lk</text>
+  <rect width="100%" height="3" fill="#58A6FF"/>
+  <rect y="3" width="100%" height="197" fill="url(#grad)"/>
+  <text x="50%" y="70" font-family="monospace" font-size="12" fill="#3FB950" text-anchor="middle" letter-spacing="4">{ SOFTGEN.LK }</text>
+  <text x="50%" y="115" font-family="monospace" font-size="34" fill="#58A6FF" text-anchor="middle" font-weight="bold">Shehan Chamika</text>
+  <text x="50%" y="148" font-family="monospace" font-size="12" fill="#8B949E" text-anchor="middle">Founder &amp; CEO @ Softgen.lk · Full-Stack Engineer · AI SaaS Architect</text>
+  <rect y="170" width="100%" height="1" fill="#21262D"/>
+  <text x="50%" y="188" font-family="monospace" font-size="10" fill="#3FB950" text-anchor="middle" opacity="0.7">softgen.lk</text>
 </svg>
 
 <br/>
 
-<!-- Typing animation -->
 <a href="https://softgen.lk">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Java+%2B+TypeScript+%2B+React;Building+AI-Powered+SaaS+at+Softgen.lk;Scalable+Microservices+%7C+MySQL+Architect;Ethical+Hacker+%7C+IoT+Explorer" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Java+%2B+TypeScript+%2B+React;Building+AI-Powered+SaaS+at+Softgen.lk;Scalable+Microservices+%7C+MySQL+Architect;Ethical+Hacker+%7C+IoT+Explorer" alt="Typing" />
 </a>
 
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/contact%40softgen.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@softgen.lk)
-[![Website](https://img.shields.io/badge/softgen.lk-000000?style=for-the-badge&logo=About.me&logoColor=58A6FF)](https://softgen.lk)
+[![Website](https://img.shields.io/badge/softgen.lk-161B22?style=for-the-badge&logo=About.me&logoColor=58A6FF)](https://softgen.lk)
 [![LinkedIn](https://img.shields.io/badge/Shehan%20Chamika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-chamika/)
 
 </div>
@@ -57,10 +56,10 @@
 
 | Product | Description | Status |
 |:-------:|:-----------:|:------:|
-| 🎓 **ZisuGen** | AI-Powered Next-Gen EdTech Platform | ![In Dev](https://img.shields.io/badge/In_Development-FF9900?style=flat-square) |
-| ⚕️ **CureGen** | Intelligent AI Pharmacy POS & Management | ![Building](https://img.shields.io/badge/Architecting-00CC66?style=flat-square) |
-| 🎬 **VizGen** | AI-Driven Video Ad Generation Platform | ![Live](https://img.shields.io/badge/Deployed-0066FF?style=flat-square) |
-| ⚙️ **CoreGen** | Personal Productivity & Security Suite | ![Proto](https://img.shields.io/badge/Prototyping-9933FF?style=flat-square) |
+| 🎓 **ZisuGen** | AI-Powered Next-Gen EdTech Platform | ![](https://img.shields.io/badge/In_Development-FF9900?style=flat-square) |
+| ⚕️ **CureGen** | Intelligent AI Pharmacy POS & Management | ![](https://img.shields.io/badge/Architecting-00CC66?style=flat-square) |
+| 🎬 **VizGen** | AI-Driven Video Ad Generation Platform | ![](https://img.shields.io/badge/Deployed-0066FF?style=flat-square) |
+| ⚙️ **CoreGen** | Personal Productivity & Security Suite | ![](https://img.shields.io/badge/Prototyping-9933FF?style=flat-square) |
 
 </div>
 
@@ -138,14 +137,15 @@
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@softgen.lk)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-chamika/)
-[![Website](https://img.shields.io/badge/Softgen.lk-000000?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://softgen.lk)
+[![Website](https://img.shields.io/badge/Softgen.lk-161B22?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://softgen.lk)
 
 <br/>
 
 *"Engineering the future, one intelligent system at a time."*
 
-<!-- SVG Footer -->
-<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+<br/>
+
+<svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
@@ -153,8 +153,9 @@
       <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="100%" height="80" fill="url(#grad2)" rx="10"/>
-  <text x="50%" y="45" font-family="monospace" font-size="11" fill="#3FB950" text-anchor="middle" opacity="0.7">© Shehan Chamika · softgen.lk</text>
+  <rect width="100%" height="60" fill="url(#grad2)" rx="8"/>
+  <text x="50%" y="28" font-family="monospace" font-size="10" fill="#21262D" text-anchor="middle">▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</text>
+  <text x="50%" y="46" font-family="monospace" font-size="10" fill="#3FB950" text-anchor="middle" opacity="0.7">© Shehan Chamika · softgen.lk · 2025</text>
 </svg>
 
 </div>
