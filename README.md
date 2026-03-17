@@ -1,53 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header" />
-  
-  <h1 align="center">Hi 👋, I'm Shehan Chamika</h1>
-  <h3 align="center">Founder & CEO @ Softgen.lk | Full-Stack Software Engineer | AI SaaS Architect</h3>
+  <a href="[https://softgen.lk](https://softgen.lk)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello%2C+World!%22)%3B;I'm+Shehan+Chamika+-+Founder+%26+CEO+%40+Softgen.lk;Architecting+Next-Gen+AI+SaaS+Solutions;Full-Stack+Engineer+%7C+Cybersecurity+Enthusiast](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello%2C+World!%22)%3B;I'm+Shehan+Chamika+-+Founder+%26+CEO+%40+Softgen.lk;Architecting+Next-Gen+AI+SaaS+Solutions;Full-Stack+Engineer+%7C+Cybersecurity+Enthusiast)" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)" width="800">
 </div>
 
 <br/>
 
-## 🚀 About Me
+### 👨‍💻 Executive Profile & Architecture Vision
 
-As a passionate **Full-Stack Software Engineer** and the **Founder & CEO of Softgen.lk**, I specialize in architecting highly scalable, AI-powered SaaS solutions. My engineering focus bridges the gap between complex software architecture, robust cybersecurity, and transformative business applications. I am driven by a vision to build technology infrastructures that create massive market impact.
-
-* 🏢 **Currently Building & Scaling:** The [Softgen.lk](https://softgen.lk) digital ecosystem.
-* 💻 **Flagship SaaS Architectures:** * **ZisuGen:** Next-generation AI-powered educational platform.
-    * **CureGen:** Advanced AI Pharmacy POS & Complete Management System.
-    * **VizGen:** AI-driven automated video advertisement generation platform.
-    * **CoreGen:** Comprehensive personal and productivity management suite.
-* 🎓 **Education:** Software Engineering at Java Institute.
-* 🌱 **Currently Exploring:** Advanced Database Architecture (MySQL optimization), Machine Learning Integration, and Offensive Security (Ethical Hacking & Penetration Testing).
-* ⚡ **Interests:** Hardware-Software Integration (IoT, ESP32), UI/UX Prototyping (Adobe Photoshop).
-
-<br/>
-
-## 💻 Core Tech Stack & Engineering Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mysql,linux,git,github,docker,aws,photoshop,figma&perline=14" alt="Tech Stack"/>
-  </a>
-</p>
-
-### 🛠️ Specialized Domains
-- **System Architecture:** Full-stack development, API design, and microservices.
-- **Data Engineering:** Deep expertise in relational databases, complex query optimization, and schema design.
-- **Cybersecurity:** Threat modeling, vulnerability assessment, and secure code deployment.
-- **IoT & Robotics:** Hardware integration using microcontrollers and sensor networks.
+```json
+{
+  "architect": "Shehan Chamika",
+  "designation": ["Founder & CEO @ Softgen.lk", "Lead AI SaaS Architect", "Full-Stack Engineer"],
+  "core_competencies": ["Scalable Microservices", "AI/ML Integration", "High-Performance Databases (MySQL)"],
+  "current_focus": "Engineering enterprise-grade SaaS products with seamless UX and uncompromised security.",
+  "philosophy": "Building sustainable technology infrastructures that disrupt traditional markets."
+}
+```
 
 <br/>
 
-## 📊 GitHub Analytics & Performance
+### 🚀 The Softgen.lk Ecosystem (Enterprise SaaS Portfolio)
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Shehan2004-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <table>
+    <tr align="center">
+      <td width="25%">
+        <b>🎓 ZisuGen</b><br/><br/>
+        <i>AI-Powered EdTech</i><br/>
+        <img src="[https://img.shields.io/badge/Status-In_Development-FF9900?style=flat-square](https://img.shields.io/badge/Status-In_Development-FF9900?style=flat-square)">
       </td>
-      <td align="center">
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan2004-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+      <td width="25%">
+        <b>⚕️ CureGen</b><br/><br/>
+        <i>Intelligent Pharmacy POS</i><br/>
+        <img src="[https://img.shields.io/badge/Status-Architecting-00CC66?style=flat-square](https://img.shields.io/badge/Status-Architecting-00CC66?style=flat-square)">
+      </td>
+      <td width="25%">
+        <b>🎬 VizGen</b><br/><br/>
+        <i>AI Video Ad Generation</i><br/>
+        <img src="[https://img.shields.io/badge/Status-Deployed-0066FF?style=flat-square](https://img.shields.io/badge/Status-Deployed-0066FF?style=flat-square)">
+      </td>
+      <td width="25%">
+        <b>⚙️ CoreGen</b><br/><br/>
+        <i>Secure Personal Suite</i><br/>
+        <img src="[https://img.shields.io/badge/Status-Prototyping-9933FF?style=flat-square](https://img.shields.io/badge/Status-Prototyping-9933FF?style=flat-square)">
       </td>
     </tr>
   </table>
@@ -55,20 +55,49 @@ As a passionate **Full-Stack Software Engineer** and the **Founder & CEO of Soft
 
 <br/>
 
-## 📫 Connect & Collaborate
+### ⚡ Technical Arsenal & Infrastructure
+
+I leverage a modern, high-performance tech stack to build scalable systems, ensuring robust security algorithms (influenced by ethical hacking principles) and optimized data pipelines.
 
 <p align="center">
-  <a href="mailto:contact@softgen.lk">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/shehan-chamika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://softgen.lk">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="[https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mysql,mongodb,linux,git,github,docker,aws,kalilinux,arduino,photoshop,figma&perline=9](https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mysql,mongodb,linux,git,github,docker,aws,kalilinux,arduino,photoshop,figma&perline=9)" />
   </a>
 </p>
 
+<br/>
+
+### 📈 Engineering Analytics & Metrics
+
 <div align="center">
-  <i>"Engineering the future, one intelligent system at a time."</i>
+  <img src="[https://github-profile-trophy.vercel.app/?username=Shehan2004-web&theme=radical&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=Shehan2004-web&theme=radical&no-frame=true&no-bg=true&margin-w=15)" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="[https://github-readme-stats.vercel.app/api?username=Shehan2004-web&show_icons=true&theme=react&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=Shehan2004-web&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan2004-web&layout=donut&theme=react&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan2004-web&layout=donut&theme=react&hide_border=true&bg_color=0D1117)" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)" width="800">
+</div>
+
+### 🌐 Let's Build the Future
+
+<div align="center">
+  <a href="mailto:contact@softgen.lk"><img src="[https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
+  <a href="[https://softgen.lk](https://softgen.lk)"><img src="[https://img.shields.io/badge/Softgen.lk-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Softgen.lk-000000?style=for-the-badge&logo=google-chrome&logoColor=white)" alt="Website" /></a>
+  <a href="[https://www.linkedin.com/in/shehan-chamika/](https://www.linkedin.com/in/shehan-chamika/)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
 </div>
